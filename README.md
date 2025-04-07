@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" hwidth="35" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="35" alt="swift logo"  />
   <img src="https://icons.iconarchive.com/icons/martz90/circle/512/apple-2-icon.png" width="35" alt="apple logo"  />
 </div>
 
